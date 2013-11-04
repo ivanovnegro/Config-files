@@ -1,0 +1,27 @@
+"gmrun"
+  Alt + F2
+"/opt/firefox/firefox"
+  Mod4 + w
+"thunar"
+  Mod4 + t
+"/home/david/.jd.sh"
+  Shift+Mod4 + d
+"sonata"
+  Mod4 + c
+"icedove"
+ Mod4 + m
+"vlc"
+  Mod4 + v
+"scrot"
+  Print
+"pidgin"
+  Mod4 + p
+"xclock -reverse"
+  Shift+Mod4 + c
+"amixer -q set Master 1%- unmute"
+  XF86AudioLowerVolume
+"amixer -q set Master 1%+ unmute"
+  XF86AudioRaiseVolume
+
+"mpc toggle"
+  Mod4 + space
