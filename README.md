@@ -18,3 +18,4 @@ Various configurations of my personal settings of window managers and CLI applic
 - mpd.conf for Music Player Daemon
 - ncmpcpp, client for MPD
 - newsbeuter feed reader
+- Vimperator
