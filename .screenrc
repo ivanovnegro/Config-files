@@ -1,0 +1,26 @@
+#Turn off Start Message
+startup_message off
+
+#Automatically Detach Session
+autodetach on
+
+#Use utf8
+defutf8 on
+
+#Status Bar and Info Bar
+
+caption always "%{-b gk}%-w%{+b kg}%50>%n %t%{-b gk}%+w%< %= %{y}%1` %{w}%D %M %d %{w}%c"
+hardstatus on
+
+## set the default shell
+shell bash
+
+# screens
+screen -t 'bash'
+screen -t 'htop' htop
+screen -t 'podcast' podbeuter
+screen -t 'music' ncmpcpp
+
+terminfo rxvt-unicode 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm'
+
+vbell off
