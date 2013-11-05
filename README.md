@@ -19,3 +19,4 @@ Various configurations of my personal settings of window managers and CLI applic
 - ncmpcpp, client for MPD
 - newsbeuter feed reader
 - Vimperator
+- fonts configuration for Debian
