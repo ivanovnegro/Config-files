@@ -22,4 +22,4 @@ Various configurations of my personal settings of window managers and CLI applic
 - fonts configuration for Debian
 - xinitrc for starting basic services
 
-!Screenshot=http://s5.postimg.org/uh878qylh/2013_10_12_175736_1280x800_scrot.png
+http://s5.postimg.org/uh878qylh/2013_10_12_175736_1280x800_scrot.png
