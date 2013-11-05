@@ -25,3 +25,6 @@ Various configurations of my personal settings of window managers and CLI applic
 My setup:
 
 http://s5.postimg.org/uh878qylh/2013_10_12_175736_1280x800_scrot.png
+
+
+[url=http://postimg.org/image/8i1sljhr7/][img]http://s5.postimg.org/8i1sljhr7/2013_10_12_175736_1280x800_scrot.jpg[/img][/url]
