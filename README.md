@@ -21,6 +21,7 @@ Various configurations of my personal settings of window managers and CLI applic
 - Vimperator
 - fonts configuration for Debian
 - xinitrc for starting basic services
+- mplayer
 
 My setup:
 
