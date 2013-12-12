@@ -1,0 +1,17 @@
+# use alsa for audio output
+ao=alsa
+# use X11 for video output
+vo=xv 
+# Extras                             
+idx=yes  
+softvol=1
+softvol-max=600
+nolirc=yes
+really-quiet="1"
+sub-fuziness=2
+font=/usr/share/fonts/opentype/cantarell/Cantarell-Regular.otf
+slang=en,es,de,sr
+alang=en
+joystick=no
+fs=yes
+mouse-movements=no
