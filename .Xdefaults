@@ -2,7 +2,6 @@ URxvt.iconFile: /usr/share/icons/gnome-colors-common/scalable/apps/terminal.svg
 
 URxvt*font: -*-terminus-medium-r-*-*-*-*-*-*-*-*-*-*
 URxvt*boldFont: -*-terminus-medium-r-*-*-*-*-*-*-*-*-*-*
-urxvt.termName: xterm-256color
 urxvt.scrollBar: false
 urxvt.imLocale: de_DE.UTF-8
 urxvt.loginShell: true
