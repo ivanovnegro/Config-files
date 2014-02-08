@@ -17,6 +17,7 @@ Various configurations of my personal settings of window managers and CLI applic
 - config.h for dwm
 - mpd.conf for Music Player Daemon
 - ncmpcpp, client for MPD
+- ncmpc, client for MPD
 - newsbeuter feed reader
 - Vimperator
 - fonts configuration for Debian
