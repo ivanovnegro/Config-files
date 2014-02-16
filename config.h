@@ -25,11 +25,8 @@ static const Rule rules[] = {
     { "Gimp",     NULL,       NULL,       0,            True,        -1 },
         { "Firefox",  NULL,       NULL,       1 << 8,       False,       -1 },
       { "Vlc",        NULL,       NULL,       0,            True,        -1 },
-      { "Synaptic",   NULL,       NULL,       0,        True,        -1 },
-      { "Ristretto",  NULL,       NULL,       0,            True,        -1 },
-  { "File-roller",   NULL,        NULL,       0,            True,        -1 },
   { "feh",           NULL,        NULL,       0,            True,        -1 },
-  { "mplayer2",      NULL,        NULL,       0,            True,        -1 },
+  { "mplayer",      NULL,        NULL,       0,            True,        -1 },
 };
 
 /* layout(s) */
@@ -60,7 +57,6 @@ static const char *dmenucmd[] = { "dmenu_run", "-fn", font, "-nb", normbgcolor, 
 static const char *termcmd[]  = { "urxvtc", NULL };
 static const char *webcmd[]   = { "/home/david/firefox/firefox-bin", NULL };
 static const char *fmcmd[]    = { "thunar", NULL };
-static const char *package[]   = { "gksu", "synaptic", NULL };
 static const char *jd[]       = { "/home/david/jd.sh", NULL };
 static const char *talk[]    = { "skype", NULL };
 static const char *mpdpause[] = { "mpc", "-q", "pause", NULL };
@@ -76,7 +72,6 @@ static Key keys[] = {
         { MODKEY,                       XK_a,      spawn,          {.v = mpdplay } },
         { MODKEY,                       XK_y,      spawn,          {.v = mpdpause } },
         { MODKEY,                       XK_f,      spawn,          {.v = fmcmd } },
-        { MODKEY,                       XK_s,      spawn,          {.v = package } },
         { MODKEY|ShiftMask,             XK_j,      spawn,          {.v = jd } },
         { MODKEY|ShiftMask,             XK_s,      spawn,          {.v = talk } },
         { MODKEY,                       XK_w,      spawn,          {.v = webcmd } },
